@@ -7,15 +7,15 @@ export default [
     },
     {
         title: 'Website Portfolio',
-        imgUrl: '',
+        imgUrl: '/assets/Website Temp SS.jpg',
         stack: ['JS', 'React', 'Tailwind', 'Vite'],
-        link: '',
+        link: 'https://liamcmoore.github.io/web-portfolio/',
     },
     {
         title: 'Encrypter/Decrypter',
-        imgUrl: '',
-        stack: ['C++', 'React', 'Tailwind', 'Vite'],
-        link: '',
+        imgUrl: '/assets/Encrypter.jpg',
+        stack: ['C++', 'Data Structures', 'Encryption'],
+        link: 'https://github.com/LiamCMoore/encryptor-decryptor',
     },
 
 ]

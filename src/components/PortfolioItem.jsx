@@ -13,7 +13,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
             {fileType === "mp4" ? (
                 <video autoPlay muted playsInline controls={false} loop={true}
                 alt="portfolio piece image" 
-                className="W-full h-36 md:h-48 object-cover cursor-pointer"                
+                className="W-full h-48 object-cover cursor-pointer"                
                 >
                     <source src={imgUrl} type="video/mp4" />
                     Your browser does not support the video tag.

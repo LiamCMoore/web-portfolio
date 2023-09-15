@@ -1,9 +1,15 @@
 export default [
     {
     year: '2023',
+    title: 'Junior Software Engineer = AMOG Technical Consulting',
+    duration: '1 year',
+    details: 'I develop for SMIC, a machine learning based solution to predict potential damage to mooring lines in offshore oil rigs, in an effort to prevent oil spills.',
+    },
+    {
+    year: '2022',
     title: 'On Call Local Area Tech - Orchard Grove Primary School',
     duration: '7 years',
-    details: 'I perform technical support and maintence for Orchard Grove Primary School, as well as assisting with asset management and leasing.',
+    details: 'I performed technical support and maintence for Orchard Grove Primary School, as well as assisting with asset management and leasing.',
     },
     {
     year: '2022',

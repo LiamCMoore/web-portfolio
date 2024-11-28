@@ -7,10 +7,10 @@ export default [
         git: 'True',
     },
     {
-        title: 'Website Portfolio',
-        imgUrl: '/web-portfolio/assets/Website Temp SS.jpg',
-        stack: ['JS', 'React', 'Tailwind', 'Vite'],
-        link: 'https://liamcmoore.github.io/web-portfolio/',
+        title: 'Project Delta',
+        imgUrl: '/web-portfolio/assets/DeltaLogo.jpg',
+        stack: ['Unity', 'Steam', 'Google Forms'],
+        link: 'https://store.steampowered.com/app/1790210/Project_Delta/',
         git: 'False',
     },
     {

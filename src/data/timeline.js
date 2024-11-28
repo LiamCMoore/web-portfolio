@@ -1,9 +1,21 @@
 export default [
     {
-    year: '2023',
-    title: 'Junior Software Engineer = AMOG Technical Consulting',
+    year: '2024',
+    title: 'Head of Playtesting and QA - Polarity Games',
     duration: '1 year',
-    details: 'I develop for SMIC, a machine learning based solution to predict potential damage to mooring lines in offshore oil rigs, in an effort to prevent oil spills.',
+    details: 'I organise playtests, source volunteers, collate feedback and participate in design discussions. I also contribute to implementation when deadlines approach.',
+    },
+    {
+    year: '2024',
+    title: 'Local Area Tech - Silverton Primary School',
+    duration: '1 year',
+    details: 'I performed technical support, server maintenance, hardware repairs and IT strategic planning for Silverton Primary School.',
+    },
+    {
+    year: '2023',
+    title: 'Junior Software Engineer - AMOG Technical Consulting',
+    duration: '1 year',
+    details: 'I developed for SMIC, a machine learning based solution to predict potential damage to mooring lines in offshore oil rigs, in an effort to prevent oil spills.',
     },
     {
     year: '2022',

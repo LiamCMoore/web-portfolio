@@ -7,10 +7,10 @@ export default [
         git: 'True',
     },
     {
-        title: 'Project Delta',
+        title: 'Mission Delta',
         imgUrl: '/web-portfolio/assets/DeltaLogo.jpg',
-        stack: ['Unity', 'Steam', 'Google Forms'],
-        link: 'https://store.steampowered.com/app/1790210/Project_Delta/',
+        stack: ['QA', 'Unity', 'Steam'],
+        link: 'https://store.steampowered.com/app/1790210/Mission_Delta/',
         git: 'False',
     },
     {

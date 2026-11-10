@@ -7,13 +7,13 @@ function PortfolioItem({title, imgUrl, stack, link, git}) {
         href={link}
         target="_blank"
         rel="noopener noreferrer"
-        className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
+        className="block h-full border-4 border-stone-900 dark:border-white rounded-md overflow-hidden"
     >
-        <div className="border-2 border-stone-900 rounded-md overflow-hidden">
+        <div>
             {fileType === "mp4" ? (
                 <video autoPlay muted playsInline controls={false} loop={true}
                 alt="portfolio piece image" 
-                className="W-full h-full object-cover cursor-pointer"                
+                className="w-full h-36 md:h-48 object-cover cursor-pointer"
                 >
                     <source src={imgUrl} type="video/mp4" />
                     Your browser does not support the video tag.
